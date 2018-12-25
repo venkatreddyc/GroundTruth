@@ -184,15 +184,16 @@
 
 [<img src="https://mailtrap.io/favicon.ico" alt="Mailtrap" height="16" /> Mailtrap](https://mailtrap.io/) - Fake SMTP servers - email request needed
 
-## To Do
 
-##### May contain outdated information
+####  Useful Websites 
+* https://opensourceforu.com/ - The Complete Portal on Open Source
+
+
+#### Credits and References
+* https://github.com/velikanov/opensource-candies
 * http://ossperks.com/
 
-## Credits and References
-https://github.com/velikanov/opensource-candies
 
-## Open Soruce Guides
 
 
 
