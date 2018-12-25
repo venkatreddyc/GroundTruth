@@ -1,5 +1,9 @@
-### GroundTruth
+# GroundTruth
 
+## Table of Contents
+
+<toc>
+  
 ## List of Services for Open Source Projects
 
 
