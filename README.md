@@ -1,20 +1,17 @@
 # GroundTruth
+GroundTruth is an intiative taken to capture and publish the list of resources available for Open Source Projects. 
 
-## Table of Contents
-
-<toc>
-  
 ## List of Services for Open Source Projects
 
 
-### Version Control
-[<img src="https://bitbucket.org/favicon.ico" alt="BitBucket" height="16" /> BitBucket](https://bitbucket.org/) - free for open source and private repositories
+### Version Control Tools
+* [<img src="https://bitbucket.org/favicon.ico" alt="BitBucket" height="16" /> BitBucket](https://bitbucket.org/) - free for open source and private repositories
 
-[<img src="https://github.com/favicon.ico" alt="GitHub" height="16" /> GitHub](https://github.com/) - free for open source repositories, paid for private repositories
+* [<img src="https://github.com/favicon.ico" alt="GitHub" height="16" /> GitHub](https://github.com/) - free for open source repositories, paid for private repositories
 
-[<img src="https://gitlab.com/favicon.ico" alt="GitLab" height="16" /> GitLab](https://gitlab.com/) - free for open source and private repositories
+* [<img src="https://gitlab.com/favicon.ico" alt="GitLab" height="16" /> GitLab](https://gitlab.com/) - free for open source and private repositories
 
-### Project Hosting
+### Project Hosting Tools
 [<img src="https://www.nuget.org/favicon.ico" alt="NuGet" height="16" /> NuGet](https://www.nuget.org/) - free .NET Project Hosting
 
 [<img src="https://www.pythonanywhere.com/favicon.ico" alt="Python Anywhere" height="16" /> Python Anywhere](https://www.pythonanywhere.com/) - hosting for Python projects - **has limits**
@@ -186,7 +183,9 @@
 
 
 ####  Useful Websites 
+* https://en.wikipedia.org/wiki/Open-source_software - Wikipedia on Open Source
 * https://opensourceforu.com/ - The Complete Portal on Open Source
+* https://opensource.org/ - Open Source Initiative
 
 
 #### Credits and References
